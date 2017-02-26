@@ -1,0 +1,1 @@
+Put application.propeties in this directory on standalone application 
